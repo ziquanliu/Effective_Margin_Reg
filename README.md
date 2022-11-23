@@ -1,4 +1,4 @@
-# Effective_Margin_Reg
+# Effective Margin Regularization
 Code for "[Boosting Adversarial Robustness From The Perspective of Effective Margin Regularization](https://arxiv.org/abs/2210.05118)", BMVC 2022
 
 ## Requirement
